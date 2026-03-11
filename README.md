@@ -1,4 +1,4 @@
-# Bank Database Project - CSE370
+# MediTrack BD
 
 This project implements a relational database system for a banking scenario.  
 It contains customer, account, branch, loan, depositor, and borrower data.
