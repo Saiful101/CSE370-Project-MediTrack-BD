@@ -9,6 +9,7 @@ MediTrack BD is an integrated platform where patients, doctors, and pharmacies a
 
 ## Features
 1️⃣ Smart Appointment Booking System
+
 How it works:
 	∙	Patient logs into the system with their name, phone number, and desired date
 	∙	System displays a list of all available doctors along with their free time slots
@@ -18,6 +19,7 @@ How it works:
 	∙	Both the doctor and patient receive a confirmation notification
   
 2️⃣ Digital Prescription & Drug Interaction Warning
+
 How it works:
 	∙	After examining the patient, the doctor logs into the system and creates a digital prescription
 	∙	The prescription includes diagnosis, medicine names, dosage, frequency, and duration
@@ -28,6 +30,7 @@ How it works:
 	∙	The prescription is automatically sent to the pharmacy
 
 3️⃣ Patient Medical History Tracker
+
 How it works:
 	∙	Every patient has a unique profile where all their information is stored
 	∙	The profile includes — blood group, allergy list, chronic diseases, and past diagnoses
@@ -46,6 +49,7 @@ How it works:
 	∙	Daily sales records are automatically saved in the system
 
 5️⃣ Blood Bank & Donor Management
+
 How it works:
 	∙	Blood donors register in the system with their name, blood group, phone number, and address
 	∙	When someone needs blood, they search by blood group and get a list of eligible donors
@@ -55,6 +59,7 @@ How it works:
 	∙	Donors can also view their own donation history
 
 6️⃣ Health Analytics & Report Dashboard
+
 How it works:
 	∙	When admin logs in, a dashboard displays all important data in one place
 	∙	Dashboard shows — total patients, total appointments, daily/monthly revenue
