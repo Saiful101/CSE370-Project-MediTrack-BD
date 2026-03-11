@@ -1,5 +1,5 @@
 # MediTrack BD
-A Smart Healthcare Management System for Bangladesh
+An Intregrated Healthcare Managemant System with Digital Prescription, Drug Interaction Detection and Blood Bank Management.
 
 
 ## Project Idea
