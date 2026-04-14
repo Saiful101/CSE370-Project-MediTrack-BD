@@ -114,7 +114,8 @@ Backend - Golang / PhP
 
 Fronted - HTML & CSS
 
-# Entity and Attibutes
-1️⃣ PERSON (EER Parent) 
+# EER Diagram
+![EER Diagram](diagrams/er-diagram-final.png)
 
+*Figure 1: EER Diagram of the MediTrack-BD Database System*
    
