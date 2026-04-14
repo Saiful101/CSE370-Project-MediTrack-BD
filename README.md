@@ -115,15 +115,6 @@ Backend - Golang / PhP
 Fronted - HTML & CSS
 
 # Entity and Attibutes
-1️⃣ PERSON (EER Parent)
+1️⃣ PERSON (EER Parent) 
 
-Attribute                Type                     Description
-person_id(PK)            INT                 Unique identifier
-name                VARCHAR(100)                  পুরো নাম
-date_of_birth           DATE                     জন্ম তারিখ
-gender          ENUM('Male','Female','Other')      লিঙ্গ
-phone              VARCHAR(15)                   ফোন নম্বর
-email             VARCHAR(100)                    ইমেইল
-address                 TEXT                     ঠিকানা
-password           VARCHAR(255)               Login password
-created_at          DATETIMEA                 ccount creation time
+   
