@@ -114,8 +114,9 @@ Backend - Golang / PhP
 
 Fronted - HTML & CSS
 
-# EER Diagram
-![EER Diagram](diagrams/er-diagram-final.png)
+## EER Diagram
 
-*Figure 1: EER Diagram of the MediTrack-BD Database System*
+![EER Diagram](diagrams/mediatrack-eer-diagram.png)
+
+*Figure: MediTrack BD EER Diagram*
    
