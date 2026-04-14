@@ -113,3 +113,5 @@ Database - MySQL
 Backend - Golang / PhP
 
 Fronted - HTML & CSS
+
+# Entity and Attibutes
