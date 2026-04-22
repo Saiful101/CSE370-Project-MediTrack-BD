@@ -112,14 +112,23 @@ How it works:
 How it works:
 
 ∙ Patient can trigger an emergency request from the system during critical health situations.
+
 ∙ The request is sent with essential details like current location, condition level, and required specialization.
+
 ∙ The system automatically connects the request with an available doctor and nearby ambulance service.
+
 ∙ Doctors can respond to the emergency in real time by accepting or rejecting the request.
+
 ∙ If accepted, the doctor is assigned to the patient immediately for further action.
+
 ∙ Ambulance availability is checked and dispatched automatically if needed, along with location tracking.
+
 ∙ Hospital authority can monitor all ongoing emergency cases from a centralized view.
+
 ∙ The system continuously updates the status of each emergency (Requested → Dispatched → Completed).
+
 ∙ Both patient and hospital receive live updates throughout the entire emergency process.
+
 ∙ All emergency records are stored for future analysis, reporting, and medical reference.
 
 
