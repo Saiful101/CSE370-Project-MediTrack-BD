@@ -113,7 +113,7 @@ How it works:
 
 ∙ Patient can trigger an emergency request from the system during critical health situations.
 
-∙ The request is sent with essential details like current location, condition level, and required specialization.
+∙ The request is sent with essential details like current location, condition level, and required      specialization.
 
 ∙ The system automatically connects the request with an available doctor and nearby ambulance service.
 
